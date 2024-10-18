@@ -4,7 +4,7 @@ from kivy.app import App
 from kivy.properties import StringProperty
 from kivy.clock import mainthread
 from kivy.utils import platform
-
+#ddddd
 kv = '''
 BoxLayout:
     orientation: 'vertical'
